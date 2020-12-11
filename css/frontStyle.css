@@ -1,0 +1,36 @@
+
+/* la boxshadow de la navbar======================================*/
+#ombre {
+    box-shadow: 0px 2px 2px 0px rgb(90, 90, 100);
+    background-color: white;
+}
+/*================================================================*/
+body{
+    left: auto;
+    right: auto;
+}
+/* bouton rouge de la  navbar ===================================*/
+#deposer{
+    border-radius: 30px;
+    background-color:rgb(224, 0, 52);
+    color: white;
+    border-style: none;
+}
+
+#deposer:hover{
+    background-color:rgba(192, 181, 181, 0.815);
+    color: black;
+}
+/* la banière de  ===============================================*/
+.baner{
+    margin-top: -175px;
+    width: 100%;
+    height: ;
+    /* border-radius: 10px; */
+    /* background: url('../img/baner2.jpg') no-repeat; */
+    /* position: relative; */
+    margin-left: 0px;
+    margin-right: 0px;
+    /* box-shadow: 0px 4px 4px #1c1a19; */
+    /* min-width: 1400px; */
+}
